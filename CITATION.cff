@@ -1,15 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the following metadata."
-title: "MyAwesomeProject"
-version: "2.0.0"
+title: "APAS"
+version: "2.0"
 date-released: "2024-11-29"
 authors:
   - family-names: "Myrtveit Sæther"
     given-names: "Mathias"
     orcid: "https://orcid.org/0000-0002-0152-6165"
 doi: "10.5281/zenodo.placeholder"
-url: "https://github.com/your-username/MyAwesomeProject"
-repository-code: "https://github.com/your-username/MyAwesomeProject"
+url: "https://github.com/mathiasbergen/APAS_Project"
+repository-code: "https://github.com/mathiasbergen/APAS_Project"
 license: "MIT"
 references:
   - type: article
